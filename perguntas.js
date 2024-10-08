@@ -11,24 +11,24 @@ criaCartao (
     
     criaCartao (
     'Lingua Portuguesa',
-    'Quando foi a segunda fase do modernismo',
-    'Foi no periodo de 1930 a 1945.' )
+    'O que é oração subordinada',
+    'é aquela que exerce uma função sintática em relação a uma outra oração.' )
     
     
     criaCartao (
     'Matematica',
-    'Como calcular log',
-    'Uma das maneiras é procurar um número que, quando elevamos a base, resulte no logaritmando .' )
+    'Qual a formula para calcular a area de um quadrado',
+    'Multiplicamos o comprimento da sua base pela sua altura .' )
     
     criaCartao (
     'Biologia',
-    'O que é impulso nervoso',
-    'É um sinal elétrico que permite a comunicação entre neurônios.' )
+    'O que é ansiedade',
+    'Preocupação intensa, excessiva e persistente e medo de situações cotidianas.' )
     
     criaCartao (
     'Matematica',
-    'Como calcula a soma de pg',
-    'Para calcular a soma dos termos de uma progressão geométrica, é possível utilizar a fórmula Sn = a1(qn-1)/q-1.' )
+    'Como calcular a area de um triangulo',
+    'multiplicar o comprimento da base e da altura e dividir por dois.' )
     
     
     criaCartao (
@@ -38,8 +38,8 @@ criaCartao (
     
     criaCartao (
     'Biologia ',
-    'Como funciona o cérebro',
-    'Ele processa informações e gera pensamentos e ideias, além de enviar mensagens para o corpo.' )
+    'Quais os tipos de ansiedade',
+    'o Transtorno de Pânico, o Transtorno Obsessivo Compulsivo, o Transtorno de Ansiedade Social ou Fobia Social e o Transtorno de Ansiedade Generalizada.' )
     
     criaCartao (
     'Quimica',
@@ -49,13 +49,13 @@ criaCartao (
     
     criaCartao (
     'Quimica',
-    'O que é quimica organica',
-    'É a parte da Química que estuda os compostos do elemento carbono com propriedades características.' )
+    'O que é quimica inorganica',
+    'É o ramo da química que estuda os elementos químicos.' )
     
     criaCartao (
     'Lingua Portuguesa',
-    'Como foi a primeira fase do modernismo',
-    'Trouxe para a literatura a inovação e fez uma releitura dos símbolos nacionais.' )
+    'O que é oracão',
+    'é todo conjunto linguístico que se estrutura em torno de um verbo ou locução verbal.' )
     
     criaCartao (
     'Matemática',
@@ -64,8 +64,8 @@ criaCartao (
     
     criaCartao (
     'Quimica',
-    'O que é quimica inorgânica',
-    'A Química Inorgânica estuda as substâncias que apresentam como origem principal o reino mineral.' )
+    'O que é pilha alcalina',
+    'A pilha alcalina é um tipo de fonte portátil de energia.' )
     
     criaCartao (
     'Biologia',
@@ -78,11 +78,10 @@ criaCartao (
     'Os riscos das drogas sintéticas são variados, incluindo-se danos cerebrais, convulsões, surtos psicóticos e até mesmo a morte.' )
     
     
-    
     criaCartao (
     'Educação Fisica',
-    'O que fazer quando uma pessoa desmaiar',
-    'Afastar a vítima de local que proporcione perigo. Deitá-la de barriga para cima, e elevar as pernas acima do tórax (com a cabeça mais baixa em relação ao restante do corpo). Lateralizar a cabeça para facilitar a respiração. Afrouxar as roupas.' )
+    'O que é dança',
+    'A dança é a arte de fazer movimentos ritmados com o corpo' )
     
     criaCartao (
     'Física',
@@ -92,13 +91,13 @@ criaCartao (
     
     criaCartao (
     'Matematica',
-    'O que é trigonometria',
-    'A trigonometria é uma área da geometria plana euclidiana que analisa a relação existente entre os ângulos de um triângulo e o comprimento dos seus lados.' )
+    'O que é geometria analitica',
+    ' é o estudo da geometria por meio de um sistema de coordenadas e dos princípios da álgebra e da análise.' )
     
     criaCartao (
     'Quimica',
-    'Como o petróleo foi descoberto',
-    'Em 1859, um americano chamado Edwin Drake perfurou na Pensilvânia um poço à procura de petróleo, que possuía grande quantidade para extração. Esse poço foi descoberto em uma região de pouca profundidade, de aproximadamente 21 metros, ao contrário das perfurações de hoje, que superam os 6.000 metros.' )
+    'O que é residuos',
+    ' todo material resultante das atividades humanas, que as vezes podem ser aproveitados tanto para reciclagem como para sua reuso.' )
     
     
     criaCartao (
